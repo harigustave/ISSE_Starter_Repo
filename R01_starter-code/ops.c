@@ -2,5 +2,5 @@
 
 int is_nonnegative(int value)
 {
-    return value > 0;
+    return value >= 0;
 }
