@@ -1,0 +1,8 @@
+program
+broken_link
+main.i
+main.s
+main.o
+ops.o
+compile_error.o
+main.text.bin
